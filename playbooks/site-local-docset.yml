@@ -4,7 +4,7 @@ site:
 
 content:
   sources:
-  - url: 'https://github.com/mendonk/animated-chainsaw/blob/main/{path}'
+  - url: https://github.com/mendonk/animated-chainsaw.git
     branches: HEAD
 
 ui:
