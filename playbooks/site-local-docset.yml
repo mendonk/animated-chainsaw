@@ -1,11 +1,10 @@
 site:
   title: Test Docs Site
-  url: /docs/fast-pulsar-jms
-  start_page: test::index.adoc
+  url: /animated-chainsaw
 
 content:
   sources:
-  - url: .
+  - url: https://github.com/mendonk/animated-chainsaw/
     branches: HEAD
 
 ui:
